@@ -3,3 +3,4 @@
 - Avocados
 - Salt
 - Onion
+- Lemon juice
