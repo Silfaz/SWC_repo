@@ -4,3 +4,4 @@
 - Salt
 - Onion
 - Lemon juice
+- Pepper
